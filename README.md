@@ -16,6 +16,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/soeunSim/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/soeunSim/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/soeunSim/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/soeunSim/LeetCode/tree/master/0058-length-of-last-word) |
 ## Stack
@@ -27,4 +28,8 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | ------- |
 | [0009-palindrome-number](https://github.com/soeunSim/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/soeunSim/LeetCode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soeunSim/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
