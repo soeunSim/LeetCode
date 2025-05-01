@@ -7,6 +7,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soeunSim/LeetCode/tree/master/0001-two-sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/soeunSim/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | ------- |
 | [0009-palindrome-number](https://github.com/soeunSim/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/soeunSim/LeetCode/tree/master/0013-roman-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/soeunSim/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Trie
 |  |
 | ------- |
