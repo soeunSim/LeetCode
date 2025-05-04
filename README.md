@@ -22,6 +22,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soeunSim/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/soeunSim/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/soeunSim/LeetCode/tree/master/0344-reverse-string) |
+| [1205-defanging-an-ip-address](https://github.com/soeunSim/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Stack
 |  |
 | ------- |
