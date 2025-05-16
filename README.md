@@ -30,6 +30,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0344-reverse-string](https://github.com/soeunSim/LeetCode/tree/master/0344-reverse-string) |
 | [1205-defanging-an-ip-address](https://github.com/soeunSim/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/soeunSim/LeetCode/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/soeunSim/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/soeunSim/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/soeunSim/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Stack
