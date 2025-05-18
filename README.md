@@ -12,6 +12,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/soeunSim/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/soeunSim/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/soeunSim/LeetCode/tree/master/1651-shuffle-string) |
+| [1791-richest-customer-wealth](https://github.com/soeunSim/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/soeunSim/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/soeunSim/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
@@ -65,4 +66,8 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/soeunSim/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/soeunSim/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
