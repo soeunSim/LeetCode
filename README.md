@@ -7,6 +7,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soeunSim/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/soeunSim/LeetCode/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/soeunSim/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/soeunSim/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -20,6 +21,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | ------- |
 | [0001-two-sum](https://github.com/soeunSim/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/soeunSim/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -70,4 +72,8 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/soeunSim/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
