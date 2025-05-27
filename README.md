@@ -7,6 +7,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soeunSim/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/soeunSim/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/soeunSim/LeetCode/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/soeunSim/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -53,6 +54,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/soeunSim/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soeunSim/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/soeunSim/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/soeunSim/LeetCode/tree/master/0344-reverse-string) |
