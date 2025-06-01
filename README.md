@@ -10,6 +10,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soeunSim/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/soeunSim/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/soeunSim/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/soeunSim/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/soeunSim/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -23,6 +24,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0001-two-sum](https://github.com/soeunSim/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/soeunSim/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soeunSim/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/soeunSim/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/soeunSim/LeetCode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -78,6 +81,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -86,4 +90,8 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/soeunSim/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
