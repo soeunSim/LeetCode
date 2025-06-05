@@ -34,6 +34,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0020-valid-parentheses](https://github.com/soeunSim/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soeunSim/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/soeunSim/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/soeunSim/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/soeunSim/LeetCode/tree/master/0344-reverse-string) |
 | [1205-defanging-an-ip-address](https://github.com/soeunSim/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/soeunSim/LeetCode/tree/master/1651-shuffle-string) |
@@ -59,6 +60,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soeunSim/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soeunSim/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/soeunSim/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/soeunSim/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/soeunSim/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
