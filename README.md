@@ -12,6 +12,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/soeunSim/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/soeunSim/LeetCode/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/soeunSim/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/soeunSim/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/soeunSim/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -100,6 +101,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/soeunSim/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
