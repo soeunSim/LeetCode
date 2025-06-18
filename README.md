@@ -30,6 +30,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/soeunSim/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/soeunSim/LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0125-valid-palindrome](https://github.com/soeunSim/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/soeunSim/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soeunSim/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/soeunSim/LeetCode/tree/master/0383-ransom-note) |
 | [1205-defanging-an-ip-address](https://github.com/soeunSim/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/soeunSim/LeetCode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/soeunSim/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -126,4 +128,8 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/soeunSim/LeetCode/tree/master/0226-invert-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/soeunSim/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
