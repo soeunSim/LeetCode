@@ -116,10 +116,12 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/soeunSim/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soeunSim/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/soeunSim/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soeunSim/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -128,8 +130,13 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/soeunSim/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soeunSim/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/soeunSim/LeetCode/tree/master/0383-ransom-note) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soeunSim/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
