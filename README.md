@@ -10,6 +10,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soeunSim/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/soeunSim/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soeunSim/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/soeunSim/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/soeunSim/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -139,4 +140,8 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soeunSim/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/soeunSim/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
