@@ -55,6 +55,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soeunSim/LeetCode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/soeunSim/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Math
 |  |
 | ------- |
@@ -147,4 +148,12 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/soeunSim/LeetCode/tree/master/0136-single-number) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/soeunSim/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/soeunSim/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
