@@ -11,6 +11,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0027-remove-element](https://github.com/soeunSim/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/soeunSim/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/soeunSim/LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/soeunSim/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soeunSim/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/soeunSim/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/soeunSim/LeetCode/tree/master/0217-contains-duplicate) |
@@ -63,6 +64,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | ------- |
 | [0009-palindrome-number](https://github.com/soeunSim/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/soeunSim/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/soeunSim/LeetCode/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/soeunSim/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Trie
 |  |
