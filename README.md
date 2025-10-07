@@ -9,6 +9,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 | [0001-two-sum](https://github.com/soeunSim/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soeunSim/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soeunSim/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/soeunSim/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/soeunSim/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soeunSim/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/soeunSim/LeetCode/tree/master/0136-single-number) |
@@ -113,6 +114,7 @@ LeetCode Algorithm 문제풀이 저장소 입니다.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/soeunSim/LeetCode/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soeunSim/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/soeunSim/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
